@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6.8.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/LoginRepository.cs">
+    <Files>
+      <File FileName="myTableViewCtrl.cs" Line="13" Column="13" />
+      <File FileName="Code/TableSource.cs" Line="1" Column="1" />
+      <File FileName="SettingsIphoneViewController.cs" Line="1" Column="1" />
+      <File FileName="Data/FeedURlRepository.cs" Line="27" Column="27" />
+      <File FileName="AppDelegate.cs" Line="56" Column="56" />
+      <File FileName="myVegeViewCtrl.cs" Line="1" Column="1" />
+      <File FileName="Data/LoginRepository.cs" Line="48" Column="48" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

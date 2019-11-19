@@ -1,0 +1,1 @@
+﻿select 'update ODATA set VAR_ENDDATE=to_Date('''||to_char(findate,'dd.mm.yyyy hh24:mi:ss')||''',''dd.mm.yyyy hh24:mi:ss'') where INVN='''||INVN||''' and var_name='''||var_name||''' and var_date=to_Date('''||to_char(startdate,'dd.mm.yyyy hh24:mi:ss')||''',''dd.mm.yyyy hh24:mi:ss'');' AS sqlString from ODATA_vm t

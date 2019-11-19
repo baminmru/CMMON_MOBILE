@@ -1,0 +1,4 @@
+C:\Users\klekh_000\documents\visual studio 2013\Projects\pmMonitoring\ScheduledTaskAgent1\Bin\Debug\ScheduledTaskAgent1.dll
+C:\Users\klekh_000\documents\visual studio 2013\Projects\pmMonitoring\ScheduledTaskAgent1\Bin\Debug\ScheduledTaskAgent1.pdb
+C:\Users\klekh_000\documents\visual studio 2013\Projects\pmMonitoring\ScheduledTaskAgent1\obj\Debug\ScheduledTaskAgent1.dll
+C:\Users\klekh_000\documents\visual studio 2013\Projects\pmMonitoring\ScheduledTaskAgent1\obj\Debug\ScheduledTaskAgent1.pdb

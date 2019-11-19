@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="pmMonitoring.pmMonitoring">
+	<uses-sdk />
+	<application android:icon="@drawable/ic_launcher" android:label="pmMonitoring">
+		<service android:label="NewFeedService" android:process=":newprocess" android:name="demoservice.DemoService" android:enabled="true" android:exported="true"></service>
+	</application>
+	<uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+</manifest>

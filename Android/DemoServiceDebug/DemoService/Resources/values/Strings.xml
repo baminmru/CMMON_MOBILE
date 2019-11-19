@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="start">Start Monitoring</string>
+	<string name="stop">Stop Monitoring</string>
+	<string name="app_name">Monitoring</string>
+	<string name="callServiceMethod">Get IMEI</string>
+	<string name="callNotice">Call Notice</string>
+</resources>

@@ -1,0 +1,12 @@
+CREATE OR REPLACE VIEW ODATA_V AS
+SELECT invn, var_name, var_val, startdate, nvl(findate,sysdate) findate,
+  cast (Round(nvl(findate,sysdate) - startdate,6) as number(14,6)) AS delta
+FROM
+(
+SELECT t.invn, t.var_name, t.var_val, t.var_date AS startDate,
+( SELECT min(t2.var_date)
+FROM ODATA t2 WHERE t2.invn = t.invn AND t2.var_name = t.var_name AND t2.var_date > t.var_date
+)
+AS findate
+FROM ODATA t
+);

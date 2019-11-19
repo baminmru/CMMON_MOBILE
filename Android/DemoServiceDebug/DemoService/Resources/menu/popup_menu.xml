@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/itemSet"
+          android:title="Настройки" />    
+    <item android:id="@+id/itemRef"
+          android:title="Обновить" />  
+    <item android:id="@+id/itemCls"
+          android:title="Запретить уведомления" />
+</menu>
+
